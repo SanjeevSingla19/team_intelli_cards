@@ -1,39 +1,18 @@
-```
-Template Instructions
- 
-Welcome to the Discover TruCreds Digital Trust Hackathon.
 
-This GitHub Repo represents a template for your project. It represents the central repository of all artifacts produced by your team. This repository will be referenced durning the judging activity and after the event has completed.
+# Smart Credit Card
 
-Please follow the Template Instructions herein to update this README.
-
-Remember to:
-  a) Remove all Template Instructions once complete
-  b) Add the mandatory GitHub Topic: `runway-t22-3`
-
-```
- 
-# Project Name
-```
-Template Instructions: Replace above "Project Name" with Participating Team Project Name which is different from the Team Name.
-```
 
 ## Project Details
-```
-Template Instructions: Provide your team specific details but.
-
-Event Track should have one of the following values: "Hack the Code" or "Digital Trust Ideation"
-```
 
 | Event Attribute| Description |
 | --- | --- |
-| Project Team Name | xxxxxxxx |
-| Project Name | xxxxxxxx |
-| Event Track | xxxxxxxx |
+| Project Team Name | intelli_cards|
+| Project Name | Smart Credit Card |
+| Event Track | Digital Trust Ideation |
  
 ## Use Case Abstract
 ```
-Template Instructions: Provide a brief description of the use case tackled by the team.
+Fraud prevention on credit cards 
 ```
 
 ## Project Artifacts
@@ -68,14 +47,12 @@ Template Instructions: Optional Section. If the team has documented reasons for 
 1. [ADR 01](./decisions/adr-01.md)
 
 ## Team Information
-```
-Template Instructions: Provide a brief description of your team, how it came to be, etc.
-```
 
 Our team members came together because ...
  
 | Name | Business Unit |
 | --- | --- |
-| [Name](mailto:xxxx@discover.com) | ??? |
-| [Name](mailto:xxxx@discover.com) | ??? |
+| [Shriprakash Band](mailto:shriprakashband@discover.com) | BT |
+| [Bharanicharan Malli](mailto:bharanicharanmallisathyamoorthy@discover.com) | BT |
+| [Sanjeev Singla](mailto:sanjeevsingla@discover.com) | BT |
 
