@@ -1,51 +1,58 @@
-# DFS TruCreds Hackathon -  Project Submission Template
 
-## Purpose
-This repository is a [GitHub Repo Template][1] for creating a project workspace respository for use by a hackathon team. This repository serves as a templatized tutorial for creating an end-to-end demonstration for digital trust use cases associated with the interactions of stakeholders (Issuer, Holder, Verifier) in the [Verifiable Credentials Trust Triangle][2].
-
-## Motivation
-The *Innovation Accelerator Team* within Discover Financial Services developed this repository as an education tool for developers and a bootstrap mechanism for participants in Discover's TruCreds Hackathon (circa: 3Q 2022).
-
-## Usage
-
-### 1. Pre-Hackathon Configuration
-Before the hackathon begins, follow these [configuration instructions](./submission-guides/configuration-instructions.md) to prepare a new repository instance generated from this GitHub template.
-
-### 2. Project Development
-Once the hackathon begins, refer to the [Hackers's Guide](./HELP.md) to develop your project.
-
-### 3. Project Submission
-Follow these [submission instructions](./submission-guides/submission-instructions.md) prior to finalizing the team's project submission.
-
-## Acknowledgments
-This repository was developed by Discover Financial Services and publicly contributed as an example for how [Avast](https://avast.com) (formally *Evernym*) products can be leveraged for digital trust solutions. Specifically, this repository leverages:
-
-* [Verity SDK](https://gitlab.com/evernym/verity/verity-sdk): Evernym's decentralized protocol platform for issuing and verifying digital credentials.
-* [Mobile SDK](https://gitlab.com/evernym/mobile):Mobile SSI wallet functionality for credential holders.
-
-## License
-This repository is licensed under the [Apache V2.0 License](./LICENSE).
+# Smart Credit Card
 
 
+## Project Details
 
+| Event Attribute| Description |
+| --- | --- |
+| Project Team Name | intelli_cards|
+| Project Name | Smart Credit Card |
+| Event Track | Digital Trust Ideation |
+ 
+## Use Case Abstract
+```
+Fraud prevention on credit cards 
+```
 
+## Project Artifacts
+```
+Template Instructions: Complete the table below.
 
+1. Use Case: Markdown file describing the story with support by UML diagrams. 
+2. Design Thinking Miro Board: URL to whiteboard used for team brainstorming. 
+3. Design Thinking Playback Brief: PowerPoint Presentation used to convey results of Design Thinking activities.
+4. Concept Playback Video: URL to Pitch Video recording conveying project problem statement and What/Why/Wow elements.
+5. Concept Show-n-Tell Video: URL Recording of a running solution to the proposed concept. 
+6. Code: URL to the code Readme file. 
 
+ 
+WARNING: Judges will stop listening to Pitch Video after the 2 minute mark so do not exceed the limit.
+```
 
+| Requirement | Deliverable |
+| --- | --- |
+| Use Case | [Story](./hackproject/usecase.md) |
+| Design Thinking Miro Board | [team-name-whiteboard](miro.url) |
+| Design Thinking Playback Brief | [Playback Presentation](./presentations/playback-brief.ppt)|
+| Concept Playback Video | [Video URL]()|
+| Concept Show-n-Tell Video | [Video URL]() |
+| Code |  [Solution Readme](./hackprokect/README.md) |
 
+## Solution Decisions
+```
+Template Instructions: Optional Section. If the team has documented reasons for any of their business or technical decisions, itemize the links to the decision documents using the template in the /decisions folder.  Remove this section if nothing to list.
+```
 
+1. [ADR 01](./decisions/adr-01.md)
 
-[1]: https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-template-repository
-[2]: https://trustoverip.github.io/WP0010-toip-foundation-whitepaper/trust/vcred_trust_triangle/
+## Team Information
 
-
-[7]: https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template
-[8]: https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository
-
-
-
-
-
-
-
+Our team members came together because ...
+ 
+| Name | Business Unit |
+| --- | --- |
+| [Shriprakash Band](mailto:shriprakashband@discover.com) | BT |
+| [Bharanicharan Malli](mailto:bharanicharanmallisathyamoorthy@discover.com) | BT |
+| [Sanjeev Singla](mailto:sanjeevsingla@discover.com) | BT |
 
